@@ -26,7 +26,7 @@ Note: The goal for most regression evaluation metrics is to minimize the error. 
 </ul>
  
 <H3>5. Deployment</H3>
-See Action here at : https://used-car-price-detector.herokuapp.com/
+See Action here at : https://used-car-price-detector.herokuapp.com/ <br>
 
 
 
