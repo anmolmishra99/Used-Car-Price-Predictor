@@ -16,12 +16,14 @@ The evaluation metric for this competition is the R^2 (Coefficient of determinat
 Note: The goal for most regression evaluation metrics is to minimize the error. For example, our goal for this project will be to build a machine learning model which max R^2.
 
 <H3>4. Features</H3>
-  * name
-  * company
-  * year
-  * Price
-  * kms_Driven
-  * fuel_type
+<ul>
+  <li>name
+  <li>company
+  <li>year
+  <li>Price
+  <li>kms_driven
+  <li>fuel_type
+</ul>
  
 <H3>5. Deployment</H3>
 See Action here at : https://used-car-price-detector.herokuapp.com/
